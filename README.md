@@ -2,10 +2,10 @@
                                    # MD BAHAUDDIN #
                                   #=================#
 
-# Chat-App
+# Anonymous Help
 
-#web application to chat online
+Take help from anyone without knowing him, regarding anything personal or professional
 
-#Can be login, singup, logout, chat(room)
+Can be login, singup, logout, chat(room)
 
 #Resources: HTML, CSS, Java script, Nodejs, Express, passport, session,  local-passport, local-passport-mongoose, mongodb
